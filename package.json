@@ -1,0 +1,27 @@
+{
+  "name": "realtimebilling",
+  "version": "1.0.0",
+  "description": "realtime app",
+  "main": "index.js",
+  "engines": {
+    "node": "15.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griffin919/realtimebilling.git"
+  },
+  "keywords": [
+    "billing",
+    "pos",
+    "hotel"
+  ],
+  "author": "Creator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griffin919/realtimebilling/issues"
+  },
+  "homepage": "https://github.com/griffin919/realtimebilling#readme"
+}
